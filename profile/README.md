@@ -36,11 +36,15 @@ Tools built with engineering rigor. Secure and reliable.
 
 ## ❓ FAQ
 
-**Q: Do you offer custom software development?**
-A: Focus lies on **Rapid Prototyping** and **Architecture Consulting**. The goal is validating technical concepts and designing scalable systems, rather than acting as an external dev shop.
+<details>
+<summary><strong>Q: Do you offer custom software development?</strong></summary>
+A: Focus lies on Rapid Prototyping and Architecture Consulting. The goal is validating technical concepts and designing scalable systems, rather than acting as an external dev shop.
+</details>
 
-**Q: How can AppSatori help with AI?**
-A: It's a staged approach. Start with productivity wins in **Gemini for Workspace**, then architect advanced **Vertex AI** solutions for custom business logic.
+<details>
+<summary><strong>Q: How can AppSatori help with AI?</strong></summary>
+A: It's a staged approach. Start with productivity wins in Gemini for Workspace, then architect advanced Vertex AI solutions for custom business logic.
+</details>
 
 ## 🤝 Connect With Us
 

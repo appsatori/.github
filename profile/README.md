@@ -1,5 +1,7 @@
 # AppSatori ☁️
 
+[![AppSatori Banner](./assets/Github_Banner_AppSatori_firma_ENG_2025.png)](https://appsatori.eu/)
+
 ## 👋 Master the Vast Google Ecosystem
 
 Navigating the engineering complexity of Google's stack—from **Workspace APIs** to **Gemini Enterprise** and **GCP Infrastructure**—demands architectural clarity. As a **Google Cloud Premier Partner**, AppSatori provides the roadmap.

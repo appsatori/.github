@@ -30,8 +30,8 @@ Tools built with engineering rigor. Secure and reliable.
 
 | Domain | Technical Capabilities | 
 | :--- | :--- | 
-| **Generative AI** | **Vertex AI**, Gemini Enterprise, ADK (Agent Development Kit), Custom Agents | 
-| **Automation** | **Google Apps Script** (Elite Tier), Workflow Orchestration | 
+| **Generative AI** | Vertex AI, Gemini Enterprise, ADK (Agent Development Kit), Custom Agents | 
+| **Automation** | Google Apps Script, Workflow Orchestration | 
 | **Cloud Strategy** | FinOps, Licensing, Modernization, IAM & Security Governance | 
 
 ## ❓ FAQ
